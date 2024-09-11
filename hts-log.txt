@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 11 Sep 2024 09:23:41 at https://davisdigitalconsulting.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1k%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://davisdigitalconsulting.com/ -O1 "C:\Users\Darrell\Downloads\Testing DDC 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:23:59	Error: 	"Method Not Allowed" (405) at link https://davisdigitalconsulting.com/xmlrpc.php (from https://davisdigitalconsulting.com/)
+09:23:59	Error: 	"Not Found" (404) at link https://davisdigitalconsulting.com/wp-content/uploads/2022/07/elementor/thumbs/Davis-6-psef5ybhhhvk036c4jepm09vgr0unxicpcvx7dydmc.png (from https://davisdigitalconsulting.com/)
+09:23:59	Error: 	"Not Found" (404) at link https://davisdigitalconsulting.com/wp-content/uploads/2022/07/elementor/thumbs/Davis-6-psef5ybjba27f3exqwpgs4jf0rcankbxj1rofho7o0.png (from https://davisdigitalconsulting.com/)
+09:25:00	Warning: 	Link https://davisdigitalconsulting.com/case-study-law-firm/ not scanned (follow robots meta tag)
+09:25:01	Warning: 	Link https://davisdigitalconsulting.com/7-5x-ranked-organic-keywords/ not scanned (follow robots meta tag)
+09:25:05	Warning: 	Link https://davisdigitalconsulting.com/85-cpc-reduction/ not scanned (follow robots meta tag)
+09:25:05	Warning: 	Link https://davisdigitalconsulting.com/e-com-keyword-traffic/ not scanned (follow robots meta tag)
+09:25:06	Warning: 	Link https://davisdigitalconsulting.com/8x-roi-case-study/ not scanned (follow robots meta tag)
+09:25:11	Warning: 	Link https://davisdigitalconsulting.com/web-traffic-recovery/ not scanned (follow robots meta tag)
+09:25:11	Warning: 	Link https://davisdigitalconsulting.com/752-leads-in-90-days/ not scanned (follow robots meta tag)
+09:25:11	Warning: 	Link https://davisdigitalconsulting.com/400-increase-in-backlinks/ not scanned (follow robots meta tag)
+09:25:11	Warning: 	Link https://davisdigitalconsulting.com/400-increase-in-backlinks-copy/ not scanned (follow robots meta tag)
+09:25:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://davisdigitalconsulting.com/wp-content/uploads/elementor/css/post-2040.css?ver=1713427191 (from https://davisdigitalconsulting.com/social-media-management/)
+09:25:13	Error: 	"Not Found" (404) at link https://davisdigitalconsulting.com/-negative.svg (from https://davisdigitalconsulting.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.24.0)
+09:25:13	Error: 	"Not Found" (404) at link https://davisdigitalconsulting.com/OPR/ (from https://davisdigitalconsulting.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.24.0)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 35 seconds : 182 links scanned, 175 files written (19184794 bytes overall) [11712363 bytes received at 123288 bytes/sec], 10665241 bytes transferred using HTTP compression in 130 files, ratio 25%, 11.6 requests per connection
+(5 errors, 10 warnings, 0 messages)
